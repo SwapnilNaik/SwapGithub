@@ -1,7 +1,7 @@
 puts 'Enter the amount you have : '
 rupee = gets.chomp.to_i
 puts 'Enter the dish'
-dish = gets.chomp
+dish = gets.chomp	
 hash	 = {
 	:Box8 => ['Rajma, 30','Vada Pav, 50','Dal, 20'],
         :Locavore => ['Dal, 10','Vada Pav, 30','Sabji, 40'],
