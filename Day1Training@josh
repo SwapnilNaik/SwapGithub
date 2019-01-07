@@ -6,6 +6,9 @@ Day 1 questions :
 >> git diff when any file is edited . shows the difference as to what is added or removed 
 3. what is login shell and non-login shell?
 4. When is .bashrc and .bash_profile loaded ?
+new terminal will .bashrc
+
+
 5.What is git config?
 6. Config ur PC to show branch name on your console
 7. Make a repo with a text file that contains what you have learned today. Push the same repo on your GitHub account,Make sure you don't have to enter GitHub password each time you make a push
